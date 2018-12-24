@@ -1,0 +1,15 @@
+- name: Wayne Larsen
+  image: team/wayne_profile.jpg
+  email: airboss@xmission.com
+  profile: is the owner, he has been with the company for 33 years and has 18,800 flying hours
+
+- name: Jeff Larsen
+  image: team/jeff_profile.jpg
+  profile: is a pilot/mechanic, he has been with the company for 5 years and he has 230 flying hours
+
+- name: Bill Larsen
+  image: team/bill_profile.jpg
+  phone: is a pilot/mechanic, he has been with the company for 30 years and has 5,900 flying hours
+
+- name: Lareen Fox
+  image: team/lareen_profile.jpg
