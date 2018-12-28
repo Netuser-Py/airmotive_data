@@ -29,6 +29,7 @@ aircraft:
   - tail: N3779W
     type: Piper Cherokee 6
     price: $240.00
+    poh_link: /static/pohs/PA32260POH.pdf
     wb: /static/pohs/AirmotiveWT&BAL.xls
     photo: piper_cherokee6.jpg
 
