@@ -4,7 +4,7 @@ aircraft:
     price: $112.00
     poh_link: /static/pohs/C150POH.pdf
     wb: /static/pohs/AirmotiveWT&BAL.xls
-    photo: cessna150.jpg
+    photo: cessna150.jpg 
 
   - tail: N41650
     type: Piper Cherokee Warrior / PA28-151
