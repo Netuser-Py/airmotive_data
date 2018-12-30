@@ -10,6 +10,7 @@ aircraft:
     type: Piper Cherokee Warrior / PA28-151
     price: $155.00
     poh_link: /static/pohs/PA28POH.pdf
+    poh_ex_link:
     wb: /static/pohs/AirmotiveWT&BAL.xls#'N41650'
     photo: piper_cherokee_warrior.jpg
 
