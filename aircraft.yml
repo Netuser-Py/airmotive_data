@@ -11,9 +11,13 @@ aircraft:
     price: $155.00
     poh_link: /static/pohs/PA28POH.pdf
     poh_ex_link1: http://static.garmin.com/pumac/190-01499-00_C.pdf
+    poh_ex_lbl1: GTX 345
     poh_ex_link2: http://static.garmin.com/pumac/190-01007-03_Q.pdf
+    poh_ex_lbl2: GTN 750
     poh_ex_link3: http://static.garmin.com/pumac/190-01007-03_Q.pdf
+    poh_ex_lbl3: GMA 35C 
     poh_ex_link4: http://static.garmin.com/pumac/190-01112-12_C.pdf
+    poh_ex_lbl4: G5 
     wb: /static/pohs/AirmotiveWT&BAL.xls#'N41650'
     photo: piper_cherokee_warrior.jpg
 
@@ -22,9 +26,13 @@ aircraft:
     price: $195.00
     poh_link: /static/pohs/C182POH.pdf
     poh_ex_link1: http://static.garmin.com/pumac/190-01499-00_C.pdf
+    poh_ex_lbl1: GTX 345
     poh_ex_link2: http://static.garmin.com/pumac/190-01007-03_Q.pdf
+    poh_ex_lbl2: GTN 750
     poh_ex_link3: http://static.garmin.com/pumac/190-01007-03_Q.pdf
+    poh_ex_lbl3: GMA 35C 
     poh_ex_link4: http://static.garmin.com/pumac/190-01112-12_C.pdf
+    poh_ex_lbl4: G5 
     wb: /static/pohs/AirmotiveWT&BAL.xlsx#'N8533T'
     photo: cessna182.jpg
 
@@ -46,8 +54,11 @@ aircraft:
     price: $225.00
     poh_link: /static/pohs/N3090QPOH.pdf
     poh_ex_link1: http://static.garmin.com/pumac/190-01499-00_C.pdf
+    poh_ex_lbl1: GTX 345
     poh_ex_link2: http://static.garmin.com/pumac/190-01007-03_Q.pdf
-    poh_ex_link3: http://static.garmin.com/pumac/190-01007-03_Q.pdf    
+    poh_ex_lbl2: GTN 750
+    poh_ex_link3: http://static.garmin.com/pumac/190-01007-03_Q.pdf
+    poh_ex_lbl3: GMA 35C 
     wb: /static/pohs/AirmotiveWT&BAL.xlsx#'N3090Q'
     photo: piper_arrow_iii.jpg
 
