@@ -41,6 +41,7 @@ aircraft:
   - tail: N1653P
     type: Piper Super Cub
     price: $145.00
+    poh_link: /static/pohs/N1653PPOH.pdf
     wb: /static/pohs/AirmotiveWT&BAL.xls
     photo: piper_super_cub.jpg
 
@@ -68,6 +69,7 @@ aircraft:
   - tail: N99200
     type: Eurocoupe (Light Sport)
     price: $112.00
+    poh_link: /static/pohs/N99200POH.pdf
     wb: /static/pohs/AirmotiveWT&BAL.xls
     photo: N99200.jpg
  
