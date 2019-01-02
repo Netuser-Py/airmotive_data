@@ -2,14 +2,14 @@ aircraft:
   - tail: N4574U
     type: Cessna-150
     price: $112.00
-    poh_link: /static/pohs/C150POH.pdf
-    wb: /static/pohs/AirmotiveWT&BAL.xls#'N4574U'
+    poh_link: /static/pohs/N4574UPOH.pdf
+    wb: /static/pohs/AirmotiveWT&BAL.xls
     photo: cessna150.jpg 
 
   - tail: N41650
     type: Piper Cherokee Warrior / PA28-151
     price: $155.00
-    poh_link: /static/pohs/PA28POH.pdf
+    poh_link: /static/pohs/N41650POH.pdf
     poh_ex:
       - link: http://static.garmin.com/pumac/190-01499-00_C.pdf
         lbl: GTX 345
@@ -19,13 +19,13 @@ aircraft:
         lbl: GMA 35C 
       - link: http://static.garmin.com/pumac/190-01112-12_C.pdf
         lbl: G5 
-    wb: /static/pohs/AirmotiveWT&BAL.xls#'N41650'
+    wb: /static/pohs/AirmotiveWT&BAL.xls
     photo: piper_cherokee_warrior.jpg
 
   - tail: N8533T
     type: Cessna-182
     price: $195.00
-    poh_link: /static/pohs/C182POH.pdf
+    poh_link: /static/pohs/N8533TPOH.pdf
     poh_ex:
       - link: http://static.garmin.com/pumac/190-01499-00_C.pdf
         lbl: GTX 345
@@ -47,7 +47,7 @@ aircraft:
   - tail: N3779W
     type: Piper Cherokee 6
     price: $240.00
-    poh_link: /static/pohs/PA32260POH.pdf
+    poh_link: /static/pohs/N3779WPOH.pdf
     wb: /static/pohs/AirmotiveWT&BAL.xls
     photo: piper_cherokee6.jpg
 
