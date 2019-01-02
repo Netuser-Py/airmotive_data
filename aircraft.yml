@@ -14,9 +14,7 @@ aircraft:
       - link: http://static.garmin.com/pumac/190-01499-00_C.pdf
         lbl: GTX 345
       - link: http://static.garmin.com/pumac/190-01007-03_Q.pdf
-        lbl: GTN 750
-      - link: http://static.garmin.com/pumac/190-01007-03_Q.pdf
-        lbl: GMA 35C 
+        lbl: GTN 750 / GMA 35C 
       - link: http://static.garmin.com/pumac/190-01112-12_C.pdf
         lbl: G5 
     wb: /static/pohs/AirmotiveWT&BAL.xls
@@ -30,9 +28,7 @@ aircraft:
       - link: http://static.garmin.com/pumac/190-01499-00_C.pdf
         lbl: GTX 345
       - link: http://static.garmin.com/pumac/190-01007-03_Q.pdf
-        lbl: GTN 750
-      - link: http://static.garmin.com/pumac/190-01007-03_Q.pdf
-        lbl: GMA 35C 
+        lbl: GTN 750 / GMA 35C 
       - link: http://static.garmin.com/pumac/190-01112-12_C.pdf
         lbl: G5 
     wb: /static/pohs/AirmotiveWT&BAL.xls
@@ -60,9 +56,7 @@ aircraft:
       - link: http://static.garmin.com/pumac/190-01499-00_C.pdf
         lbl: GTX 345
       - link: http://static.garmin.com/pumac/190-01007-03_Q.pdf
-        lbl: GTN 750
-      - link: http://static.garmin.com/pumac/190-01007-03_Q.pdf
-        lbl: GMA 35C 
+        lbl: GTN 750 / GMA 35C 
     wb: /static/pohs/AirmotiveWT&BAL.xls
     photo: piper_arrow_iii.jpg
 
