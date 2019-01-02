@@ -3,7 +3,7 @@ aircraft:
     type: Cessna-150
     price: $112.00
     poh_link: /static/pohs/C150POH.pdf
-    wb: /static/pohs/AirmotiveWT&BAL.xls
+    wb: /static/pohs/AirmotiveWT&BAL.xls#'N4574U'
     photo: cessna150.jpg 
 
   - tail: N41650
