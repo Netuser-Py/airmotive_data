@@ -3,7 +3,7 @@ aircraft:
     type: Cessna-150
     price: $112.00
     poh_link: /static/pohs/C150POH.pdf
-    wb: /static/pohs/AirmotiveWT&BAL.xlsx#'N4574U'
+    wb: /static/pohs/AirmotiveWT&BAL.xlsx
     photo: cessna150.jpg 
 
   - tail: N41650
@@ -35,7 +35,7 @@ aircraft:
         lbl: GMA 35C 
       - link: http://static.garmin.com/pumac/190-01112-12_C.pdf
         lbl: G5 
-    wb: /static/pohs/AirmotiveWT&BAL.xlsx#'N8533T'
+    wb: /static/pohs/AirmotiveWT&BAL.xlsx
     photo: cessna182.jpg
 
   - tail: N1653P
@@ -48,7 +48,7 @@ aircraft:
     type: Piper Cherokee 6
     price: $240.00
     poh_link: /static/pohs/PA32260POH.pdf
-    wb: /static/pohs/AirmotiveWT&BAL.xlsx#'N3779W'
+    wb: /static/pohs/AirmotiveWT&BAL.xlsx
     photo: piper_cherokee6.jpg
 
   - tail: N3090Q
@@ -62,7 +62,7 @@ aircraft:
         lbl: GTN 750
       - link: http://static.garmin.com/pumac/190-01007-03_Q.pdf
         lbl: GMA 35C 
-    wb: /static/pohs/AirmotiveWT&BAL.xlsx#'N3090Q'
+    wb: /static/pohs/AirmotiveWT&BAL.xlsx
     photo: piper_arrow_iii.jpg
 
   - tail: N99200
